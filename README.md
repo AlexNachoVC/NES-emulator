@@ -5,3 +5,5 @@ piribiribum
 
 
 instalando vs para c#
+
+haciendo el setup de vs
